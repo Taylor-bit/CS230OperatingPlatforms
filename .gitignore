@@ -1,0 +1,17 @@
+# Ignore object files, compiled binaries, and other build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.a
+*.lib
+*.bin
+
+# Ignore zip files
+*.zip
+
+# Ignore build directories and x64 folders
+*/x64/*
+*/.vs*
